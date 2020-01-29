@@ -12,3 +12,14 @@ C:\GITHUB\DgvTf\DgvTf\obj\Debug\DgvTf.pdb
 C:\GITHUB\DGVTf1\DgvTf\bin\Debug\DgvTf.exe.config
 C:\GITHUB\DGVTf1\DgvTf\obj\Debug\DgvTf.exe
 C:\GITHUB\DGVTf1\DgvTf\obj\Debug\DgvTf.pdb
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\bin\Debug\DgvTf.exe.config
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.exe
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.pdb
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\bin\Debug\DgvTf.exe
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\bin\Debug\DgvTf.pdb
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.csprojResolveAssemblyReference.cache
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.FormMain.resources
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.FormSohran.resources
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.FormZagr.resources
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.Properties.Resources.resources
+C:\GITHUB\yeeeeeeeeeeeeeeeeeeeei\DgvTf\obj\Debug\DgvTf.csproj.GenerateResource.Cache
